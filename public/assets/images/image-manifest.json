@@ -1,0 +1,123 @@
+{
+  "images": [
+    {
+      "file": "hero-travel.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:A350_over_cloud.jpg",
+      "description": "Airbus A350 passenger airliner cruising over clouds",
+      "license": "CC BY-SA 2.0",
+      "credit": "Laurent Errera / Wikimedia Commons"
+    },
+    {
+      "file": "destination-dubai.webp",
+      "source": "https://commons.wikimedia.org/wiki/Burj_Khalifa",
+      "description": "Burj Khalifa and Downtown Dubai skyline",
+      "license": "CC BY-SA 3.0",
+      "credit": "Donaldytong / Wikimedia Commons"
+    },
+    {
+      "file": "destination-paris.webp",
+      "source": "https://commons.wikimedia.org/wiki/Eiffel_tower",
+      "description": "Eiffel Tower viewed from Champ de Mars, Paris",
+      "license": "CC BY-SA 3.0",
+      "credit": "Benh LIEU SONG / Wikimedia Commons"
+    },
+    {
+      "file": "destination-london.webp",
+      "source": "https://commons.wikimedia.org/wiki/Big_Ben",
+      "description": "Big Ben and Palace of Westminster in London",
+      "license": "CC BY-SA 3.0",
+      "credit": "Diliff / Wikimedia Commons"
+    },
+    {
+      "file": "destination-turkey.webp",
+      "source": "https://commons.wikimedia.org/wiki/Category:Hagia_Sophia",
+      "description": "Hagia Sophia Grand Mosque in Istanbul, Turkey",
+      "license": "CC BY-SA 3.0",
+      "credit": "Arild V\u00e5gen / Wikimedia Commons"
+    },
+    {
+      "file": "destination-maldives.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:Maldives_beach.jpg",
+      "description": "Tropical island beach and turquoise lagoon in the Maldives",
+      "license": "CC BY-SA 3.0",
+      "credit": "Ibrahim Asad / Wikimedia Commons"
+    },
+    {
+      "file": "destination-bali.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:Beach_in_Bali.jpg",
+      "description": "Tropical coastline and beach landscape in Bali, Indonesia",
+      "license": "CC BY-SA 3.0",
+      "credit": "Tropenmuseum / Wikimedia Commons"
+    },
+    {
+      "file": "pakistan-hunza.webp",
+      "source": "https://commons.wikimedia.org/wiki/Category:Hunza_Valley",
+      "description": "Passu Cones and mountain vista in Hunza Valley, Gilgit-Baltistan",
+      "license": "CC BY-SA 4.0",
+      "credit": "Moiz / Wikimedia Commons"
+    },
+    {
+      "file": "pakistan-naran.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:Naran-Kaghan.jpg",
+      "description": "Lake Saif-ul-Malook in Naran Kaghan Valley, Pakistan",
+      "license": "CC BY-SA 4.0",
+      "credit": "Ali Rehman / Wikimedia Commons"
+    },
+    {
+      "file": "pakistan-karachi.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:Karachi_Skyline_2026.jpg",
+      "description": "Karachi coastline and urban landscape, Pakistan",
+      "license": "CC BY-SA 3.0",
+      "credit": "M. Bilal / Wikimedia Commons"
+    },
+    {
+      "file": "kaaba-umrah.webp",
+      "source": "https://commons.wikimedia.org/wiki/Kaaba",
+      "description": "The Holy Kaaba inside Masjid al-Haram in Makkah",
+      "license": "CC BY-SA 2.0",
+      "credit": "Al Jazeera English / Wikimedia Commons"
+    },
+    {
+      "file": "madinah-umrah.webp",
+      "source": "https://commons.wikimedia.org/wiki/Category:Al-Masjid_an-Nabawi",
+      "description": "Al-Masjid an-Nabawi in Madinah Al Munawwarah",
+      "license": "CC BY-SA 4.0",
+      "credit": "A.S. Al-Husseini / Wikimedia Commons"
+    },
+    {
+      "file": "service-flights.webp",
+      "source": "https://commons.wikimedia.org",
+      "description": "International flight reservations and airline ticketing",
+      "license": "CC BY-SA 2.0",
+      "credit": "Aero Icarus / Wikimedia Commons"
+    },
+    {
+      "file": "service-hotels.webp",
+      "source": "https://commons.wikimedia.org",
+      "description": "Worldwide luxury hotel reservations and accommodation",
+      "license": "Public Domain",
+      "credit": "Derek Jensen / Wikimedia Commons"
+    },
+    {
+      "file": "service-visa.webp",
+      "source": "https://commons.wikimedia.org",
+      "description": "Visa consultation and document assistance",
+      "license": "Public Domain",
+      "credit": "Government of Pakistan / Wikimedia Commons"
+    },
+    {
+      "file": "service-tours.webp",
+      "source": "https://commons.wikimedia.org",
+      "description": "Holiday packages and worldwide group tours",
+      "license": "CC BY-SA 3.0",
+      "credit": "Wikimedia Commons"
+    },
+    {
+      "file": "fallback-travel.webp",
+      "source": "https://commons.wikimedia.org",
+      "description": "Scenic passenger flight over clouds",
+      "license": "CC BY-SA 2.0",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+==================================================
+AJ EXPRESS - REAL IMAGE CREDITS & ATTRIBUTIONS
+==================================================
+
+File: hero-travel.webp
+Description: Airbus A350 passenger airliner cruising over clouds
+Author / Credit: Laurent Errera / Wikimedia Commons
+License: CC BY-SA 2.0
+Source URL: https://commons.wikimedia.org/wiki/File:A350_over_cloud.jpg
+----------------------------------------
+File: destination-dubai.webp
+Description: Burj Khalifa and Downtown Dubai skyline
+Author / Credit: Donaldytong / Wikimedia Commons
+License: CC BY-SA 3.0
+Source URL: https://commons.wikimedia.org/wiki/Burj_Khalifa
+----------------------------------------
+File: destination-paris.webp
+Description: Eiffel Tower viewed from Champ de Mars, Paris
+Author / Credit: Benh LIEU SONG / Wikimedia Commons
+License: CC BY-SA 3.0
+Source URL: https://commons.wikimedia.org/wiki/Eiffel_tower
+----------------------------------------
+File: destination-london.webp
+Description: Big Ben and Palace of Westminster in London
+Author / Credit: Diliff / Wikimedia Commons
+License: CC BY-SA 3.0
+Source URL: https://commons.wikimedia.org/wiki/Big_Ben
+----------------------------------------
+File: destination-turkey.webp
+Description: Hagia Sophia Grand Mosque in Istanbul, Turkey
+Author / Credit: Arild Vågen / Wikimedia Commons
+License: CC BY-SA 3.0
+Source URL: https://commons.wikimedia.org/wiki/Category:Hagia_Sophia
+----------------------------------------
+File: destination-maldives.webp
+Description: Tropical island beach and turquoise lagoon in the Maldives
+Author / Credit: Ibrahim Asad / Wikimedia Commons
+License: CC BY-SA 3.0
+Source URL: https://commons.wikimedia.org/wiki/File:Maldives_beach.jpg
+----------------------------------------
+File: destination-bali.webp
+Description: Tropical coastline and beach landscape in Bali, Indonesia
+Author / Credit: Tropenmuseum / Wikimedia Commons
+License: CC BY-SA 3.0
+Source URL: https://commons.wikimedia.org/wiki/File:Beach_in_Bali.jpg
+----------------------------------------
+File: pakistan-hunza.webp
+Description: Passu Cones and mountain vista in Hunza Valley, Gilgit-Baltistan
+Author / Credit: Moiz / Wikimedia Commons
+License: CC BY-SA 4.0
+Source URL: https://commons.wikimedia.org/wiki/Category:Hunza_Valley
+----------------------------------------
+File: pakistan-naran.webp
+Description: Lake Saif-ul-Malook in Naran Kaghan Valley, Pakistan
+Author / Credit: Ali Rehman / Wikimedia Commons
+License: CC BY-SA 4.0
+Source URL: https://commons.wikimedia.org/wiki/File:Naran-Kaghan.jpg
+----------------------------------------
+File: pakistan-karachi.webp
+Description: Karachi coastline and urban landscape, Pakistan
+Author / Credit: M. Bilal / Wikimedia Commons
+License: CC BY-SA 3.0
+Source URL: https://commons.wikimedia.org/wiki/File:Karachi_Skyline_2026.jpg
+----------------------------------------
+File: kaaba-umrah.webp
+Description: The Holy Kaaba inside Masjid al-Haram in Makkah
+Author / Credit: Al Jazeera English / Wikimedia Commons
+License: CC BY-SA 2.0
+Source URL: https://commons.wikimedia.org/wiki/Kaaba
+----------------------------------------
+File: madinah-umrah.webp
+Description: Al-Masjid an-Nabawi in Madinah Al Munawwarah
+Author / Credit: A.S. Al-Husseini / Wikimedia Commons
+License: CC BY-SA 4.0
+Source URL: https://commons.wikimedia.org/wiki/Category:Al-Masjid_an-Nabawi
+----------------------------------------
+File: service-flights.webp
+Description: International flight reservations and airline ticketing
+Author / Credit: Aero Icarus / Wikimedia Commons
+License: CC BY-SA 2.0
+Source URL: https://commons.wikimedia.org
+----------------------------------------
+File: service-hotels.webp
+Description: Worldwide luxury hotel reservations and accommodation
+Author / Credit: Derek Jensen / Wikimedia Commons
+License: Public Domain
+Source URL: https://commons.wikimedia.org
+----------------------------------------
+File: service-visa.webp
+Description: Visa consultation and document assistance
+Author / Credit: Government of Pakistan / Wikimedia Commons
+License: Public Domain
+Source URL: https://commons.wikimedia.org
+----------------------------------------
+File: service-tours.webp
+Description: Holiday packages and worldwide group tours
+Author / Credit: Wikimedia Commons
+License: CC BY-SA 3.0
+Source URL: https://commons.wikimedia.org
+----------------------------------------
+File: fallback-travel.webp
+Description: Scenic passenger flight over clouds
+Author / Credit: Wikimedia Commons
+License: CC BY-SA 2.0
+Source URL: https://commons.wikimedia.org
+----------------------------------------

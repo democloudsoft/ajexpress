@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <circle cx="256" cy="256" r="248" fill="#FFFFFF" stroke="#353C94" stroke-width="16"/>
+  <circle cx="256" cy="256" r="236" fill="none" stroke="#ED2226" stroke-width="8"/>
+  <circle cx="256" cy="256" r="224" fill="none" stroke="#353C94" stroke-width="4"/>
+  <!-- Stylized A arc in Red -->
+  <path d="M 120 340 C 130 250 200 130 256 100 C 270 140 280 170 290 195 C 240 230 180 280 120 340 Z" fill="#ED2226"/>
+  <!-- Blue Flight Swoop and Triangle -->
+  <path d="M 120 340 C 200 290 280 230 390 160 C 400 155 410 150 420 145 C 380 240 310 330 200 345 L 360 345 L 390 310 L 400 370 L 160 370 Z" fill="#353C94"/>
+  <!-- Airplane icon in blue -->
+  <path d="M 405 135 L 435 155 L 425 165 L 405 155 L 395 175 L 385 170 L 390 150 L 375 140 L 380 130 L 405 140 Z" fill="#353C94"/>
+  <!-- Brand text badge -->
+  <rect x="110" y="385" width="292" height="42" rx="6" fill="#353C94"/>
+  <text x="256" y="415" fill="#FFFFFF" font-family="'Poppins', sans-serif" font-weight="800" font-size="28" text-anchor="middle" letter-spacing="1.5">A.J EXPRESS</text>
+  <text x="256" y="448" fill="#ED2226" font-family="'Poppins', sans-serif" font-weight="600" font-size="16" text-anchor="middle" letter-spacing="0.5">Travel Smart With Experience</text>
+</svg>

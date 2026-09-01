@@ -1,0 +1,6 @@
+{
+  "name": "AJ Express - Travel Agency",
+  "description": "AJ Express is a Karachi travel agency providing flight reservations, hotel bookings, visa assistance, holiday packages, Umrah travel services, and worldwide travel consultancy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
